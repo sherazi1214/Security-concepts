@@ -1,6 +1,6 @@
 # Security-concepts
 
-### CIA Triad , Zero trust & **[Physical security ](https://github.com/sherazi1214/physical-security/new/main?readme=1):**
+### CIA Triad , Zero trust & **[Physical security ](https://github.com/sherazi1214/physical-security/tree/main):**
 CIA stands for:
 
 Confidentiality (رازداری)

@@ -1,6 +1,6 @@
 # Security-concepts
 
-### CIA Triad , Zero trust , **[Physical security ](https://github.com/sherazi1214/physical-security/tree/main)** &  [Environmental Effects ](https://github.com/sherazi1214/Environmental-Effects)
+### CIA Triad , Zero trust , **[Physical security ](https://github.com/sherazi1214/physical-security/tree/main)** ,  [Environmental Effects ](https://github.com/sherazi1214/Environmental-Effects) & **[Deception and Disruption ](https://github.com/sherazi1214/Deception-and-Disruption)**
 CIA stands for:
 
 Confidentiality (رازداری)
